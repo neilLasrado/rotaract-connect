@@ -1,0 +1,8 @@
+{
+  "name": "Rotaract Connect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "982c9aa8"
+}

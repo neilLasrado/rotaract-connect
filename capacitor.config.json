@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Rotaract Connect",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
